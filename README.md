@@ -7,7 +7,7 @@
 3) If it returns an error, make sure your terminal path is on the folder of your project (type: cd (project folder path))
 4) Close the terminal once all requirements are installed
 ###### After installments:
-5) Run the python file
+5) Run the python file (either using the terminal or directly)
 
 ## Code:
 ```py
